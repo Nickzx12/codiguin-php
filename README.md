@@ -1,3 +1,3 @@
 # codiguin-php
 exemplos de lógica com php. 
-Aí deve ter um pouco de Js tbm.
+Aqui só tem JS e html. css, tvlz eu adicione.
