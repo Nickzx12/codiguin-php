@@ -1,3 +1,3 @@
-# codiguin-php
-exemplos de lógica com php. 
+# codiguin-JS
+exemplos de lógica com JavaScript
 Aqui só tem JS e html. css, tvlz eu adicione.
